@@ -18,9 +18,9 @@ favicon: favicon.ico
 #repository: ityouknow/ityouknow.github.io
 #github_url: https://github.com/ityouknow
 #url: http://www.ityouknow.com
-repository: github_username/github_yzhou15.github.io
-github_url: https://github.com/github_yzhou15
-url: https://github_yzhou15.github.io
+repository: yzhou15/yzhou15.github.io
+github_url: https://github.com/yzhou15
+url: https://yzhou15.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
